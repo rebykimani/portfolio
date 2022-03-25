@@ -301,10 +301,11 @@ button:focus {
 .home_banner_area {
   position: relative;
   z-index: 1;
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  margin-bottom: 200px; }
+  background-image: -moz-linear-gradient(0deg, #202346 0%, #201765 100%);
+  background-image: -webkit-linear-gradient(0deg, #202346 0%, #201765 100%);
+	background-image: -ms-linear-gradient( 0deg, #201856 0%, #201856 100%);
+  margin-bottom: 200px; 
+}
   .home_banner_area .box_1620 {
     min-height: 700px;
     border-radius: 12px;
